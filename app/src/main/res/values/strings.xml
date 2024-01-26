@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pagination rw</string>
+    <string name="search">search</string>
+    <string name="next">next</string>
+</resources>
